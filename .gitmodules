@@ -1,3 +1,6 @@
 [submodule "izrada-web-stranice-web-shop-Spinii-test"]
 	path = izrada-web-stranice-web-shop-Spinii-test
 	url = https://github.com/Spinii/izrada-web-stranice-web-shop-Spinii-test.git
+[submodule "to-do-list-App"]
+	path = to-do-list-App
+	url = https://github.com/Spinii/to-do-list-App.git
