@@ -10,3 +10,6 @@
 [submodule "password-generator-app"]
 	path = password-generator-app
 	url = https://github.com/Spinii/password-generator-app.git
+[submodule "rock-paper-scissors-app"]
+	path = rock-paper-scissors-app
+	url = https://github.com/Spinii/rock-paper-scissors-app.git
