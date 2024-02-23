@@ -14,7 +14,7 @@
     height: 100dvh;
     background-image:
     linear-gradient(0deg, #1d1d1de3 0%, #151515e3 100%),
-    url('slike/bg1.jpg');
+    url('slike/bg1-min.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
