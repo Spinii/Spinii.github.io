@@ -4,3 +4,6 @@
 [submodule "to-do-list-App"]
 	path = to-do-list-App
 	url = https://github.com/Spinii/to-do-list-App.git
+[submodule "weather-fetch-app"]
+	path = weather-fetch-app
+	url = https://github.com/Spinii/weather-fetch-app.git
