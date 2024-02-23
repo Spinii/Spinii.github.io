@@ -7,3 +7,6 @@
 [submodule "weather-fetch-app"]
 	path = weather-fetch-app
 	url = https://github.com/Spinii/weather-fetch-app.git
+[submodule "password-generator-app"]
+	path = password-generator-app
+	url = https://github.com/Spinii/password-generator-app.git
